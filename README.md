@@ -85,6 +85,6 @@ Sales-Report-Automation-Dashboard
 
 Sachin Gupta
 
-LinkedIn: *(Add your LinkedIn URL)*
+LinkedIn: (https://www.linkedin.com/in/sachin-gupta-16651a24a/)
 
-GitHub: *(Add your GitHub URL)*
+GitHub: (https://github.com/Sachingupta209)
